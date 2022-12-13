@@ -1,4 +1,4 @@
-### Olaa, eu sou a Joy!! 👋
+## Olaa, eu sou a Joy!! 👋
 <div align="center">
   <a href="https://https://github.com/jojobaa">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=jojobaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="joy-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/338224_DOmHtwsL.png">
 </div>
+    
   ##    
+    
 <div> 
   <a href="https://www.instagram.com/joy_explorer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joycarvalho59@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
