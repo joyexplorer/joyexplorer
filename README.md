@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="joy-pic" height="150" style="border-radius:50px;" src="file:///home/joy/Downloads/eabbaa62-a3af-4605-a100-b0faf534e80d.jpeg">
+  <img align="right" alt="joy-pic" height="150" style="border-radius:50px;" src="![image](https://user-images.githubusercontent.com/106851022/207430766-1ccfba3f-9477-425f-896d-0d092a2af329.png)">
 </div>
     
   ##
