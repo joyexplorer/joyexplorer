@@ -1,4 +1,4 @@
-## Olaa, eu sou a Joy!! Sou estudante de tecnologia 👋
+## Olaa, bem vindos! Eu sou a Joy e sou estudante de tecnologia 👋
 <div align="center">
   <a href="https://https://github.com/jojobaa">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=jojobaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
