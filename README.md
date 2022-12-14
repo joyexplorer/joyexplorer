@@ -13,7 +13,7 @@
   <img align="center" alt="joy-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="joy-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align="center" alt="joy-postgressql" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img align="right" alt="joy-pic" height="180" style="border-radius:50px;"        src="https://cdn.discordapp.com/attachments/845448010216374313/1052399129864712304/picasion.com_cabe92319c47578cce68ea0ba12190f6.gif">
+  <img align="right" alt="joy-pic" height="150" style="border-radius:50px;"        src="https://cdn.discordapp.com/attachments/845448010216374313/1052399129864712304/picasion.com_cabe92319c47578cce68ea0ba12190f6.gif">
 </div>
     
   ##    
