@@ -1,4 +1,4 @@
-## Olaa, bem vindos! Eu sou a Joy e sou estudante de tecnologia <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
+## Hello, welcome! I'm Joy and I'm a tech student <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
 
 <div>
   <a href="https://https://github.com/jojobaa">
