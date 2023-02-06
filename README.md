@@ -1,10 +1,5 @@
 ## Hello, welcome! I'm Joy and I'm a tech student <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
 
-<div>
-  <a href="https://https://github.com/jojobaa">
-  <img width="400" height="180em"src="https://github-readme-stats.vercel.app/api?username=jojobaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="400" height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojobaa&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="joy-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="joy-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -23,6 +18,5 @@
   <a href="https://www.instagram.com/joy_explorer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joycarvalho59@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joycilane-carvalho-557a2922b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-![Snake animation](https://github.com/jojobaa/jojobaa/blob/output/github-contribution-grid-snake.svg)
+
 </div>
