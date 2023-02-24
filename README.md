@@ -2,6 +2,8 @@
 👨‍🎓 <a href="https://www.driven.com.br/" target="_blank"> Driven </a> →  Finishing training at Driven Education, finally a FullStack Web Developer! <br>
 👨‍🎓 Estácio </a> → graduated in analysis and development of systems!
 
+<img align="right" alt="joy-pic" height="150" style="border-radius:50px;"        src="https://cdn.discordapp.com/attachments/845448010216374313/1052399129864712304/picasion.com_cabe92319c47578cce68ea0ba12190f6.gif">
+
 # Tech Stack 🖥
 
 ### Front-end:
