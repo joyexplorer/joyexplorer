@@ -1,5 +1,4 @@
 ## Hello, welcome! I'm Joy and I'm a tech student <img width="50px" src="https://media.tenor.com/Aq4nnClR37AAAAAi/nervous-dog-spinning.gif" />
-👨‍🎓 <a href="https://www.driven.com.br/" target="_blank"> 
 
 <img align="right" alt="joy-pic" height="150" style="border-radius:50px;"        src="https://cdn.discordapp.com/attachments/845448010216374313/1052399129864712304/picasion.com_cabe92319c47578cce68ea0ba12190f6.gif">
 
