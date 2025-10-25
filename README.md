@@ -4,8 +4,10 @@
 
 # Tech Stack 🖥
 
-### Games:
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
+### Gamedev:
+![GameMaker](https://img.shields.io/badge/GameMaker-2C2C2C?style=for-the-badge&logo=gamemaker&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-1F1F1F?style=for-the-badge&logo=gamemaker&logoColor=green)
+![GameMaker](https://img.shields.io/badge/GameMaker-3DDC84?style=for-the-badge&logo=gamemaker&logoColor=black)
 
 ### Front-end:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
